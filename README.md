@@ -1,6 +1,4 @@
-### Nursing background - Coding future
-
-Welcome to my GitHub page
+### Hello there
 <!--
 **afrasch/afrasch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
