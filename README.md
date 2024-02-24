@@ -1,4 +1,7 @@
-### Hello there
+### Hello there!
+
+This is the place where I save some of my most fun projects. You're welcome to look around! But be warned, I am no coding wizard (yet) and even though I like clean and understandable code, those projects are part of my learning journey and therefore not beautified, polished or regularly checked. Take it as an inspiration ;)
+
 <!--
 **afrasch/afrasch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
