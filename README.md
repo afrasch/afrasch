@@ -1,6 +1,10 @@
 ### Hello there!
 
-This is the place where I save some of my most fun projects. You're welcome to look around! But be warned, I am no coding wizard (yet) and even though I like clean and understandable code, those projects are part of my learning journey and therefore not beautified, polished or regularly checked. Take it as an inspiration ;)
+This is the place where I save some of my most fun projects from the Core Curriculum at 42 Coding School. You're welcome to look around! But be warned - even though I like clean and efficient code, those projects are part of my learning journey and therefore not polished, beautified or regularly checked. Take it as an inspiration ;)
+
+Not included team projects:
+webserv - an HTTP webserver written in C++.
+ft_transcendence - a full-stack project where the user can sign up to play Pong, make friends and mute them in their private chat room. Built with TypeScript, Vue and postgres.
 
 <!--
 **afrasch/afrasch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
