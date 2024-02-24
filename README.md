@@ -1,6 +1,6 @@
 ### Hello there!
 
-This is the place where I save some of my most fun projects from the Core Curriculum at 42 Coding School. You're welcome to look around! But be warned - even though I like clean and efficient code, those projects are part of my learning journey and therefore not polished, beautified or regularly checked. Take it as an inspiration ;)<br>
+This is the place where I save some of my most fun projects from the Core Curriculum at 42 Coding School. You're welcome to look around! But be warned - even though I do my best to write clean and efficient code, those projects are part of my learning journey and therefore not polished, beautified or regularly checked. Take it as an inspiration ;)<br>
 
 
 Not included team projects:<br>
